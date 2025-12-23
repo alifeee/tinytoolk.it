@@ -6,7 +6,7 @@ title = "Facom R.180PB 180° flexible head 1/4\" compact ratchet"
 tags = ["things-that-turn"]
 by = ["jarkman"]
 [extra]
-link = "https://www.facom.eu/uk-en/generaltooling/productdetails/hierarchy/7180/group/R.180PB/"
+link = "https://www.facom.com/product/r180pb/14-flexible-head-ratchet"
 +++
 
 This thing does many different screwdriver things, while remaining very compact. I think it may be the tiniest way to be able to drive full-size bits.
